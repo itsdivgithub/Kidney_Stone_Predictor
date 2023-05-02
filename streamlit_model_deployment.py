@@ -3,7 +3,6 @@
 
 # In[6]:
 
-pip install streamlit tensorflow
 
 import streamlit as st
 import tensorflow.keras as keras
