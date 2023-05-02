@@ -5,7 +5,6 @@
 
 !pip install pyngrok
 
-"""**Define the function to make predictions**"""
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
