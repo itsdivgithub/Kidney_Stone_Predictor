@@ -61,7 +61,4 @@
 #         st.write("You have kidney stone.")
 #     else:
 #         st.write("You don't have kidney stone.")
-#
-
-!streamlit run app.py & npx localtunnel --port 8501
 
