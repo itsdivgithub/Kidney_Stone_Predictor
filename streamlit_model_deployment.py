@@ -3,6 +3,7 @@
 
 # In[6]:
 
+pip install tensorflow
 
 import streamlit as st
 import numpy as np
